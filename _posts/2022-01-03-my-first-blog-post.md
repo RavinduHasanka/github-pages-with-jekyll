@@ -1,6 +1,6 @@
 ---
-Title : Software Engineering
-Date : 2022-01-03
+Title :  title
+Date : YYYY-MM-DD
 ---
 
 ## ---- Software Engineering ----
