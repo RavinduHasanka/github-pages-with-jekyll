@@ -1,6 +1,6 @@
 ---
 title: "Software Engineering"
-date: YYYY-MM-DD
+date: 2022-01-03
 ---
 
 ## Software Engineering 
