@@ -1,6 +1,6 @@
 ---
-Title :  Sofyware Engineering
-Date : 2022-01-03
+title :  Sofyware Engineering
+date : 2022-01-03
 ---
 
 ## ---- Software Engineering ----
